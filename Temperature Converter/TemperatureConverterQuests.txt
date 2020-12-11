@@ -8,7 +8,7 @@ For example, 283 K converts to 10 °C which converts to 50 °F.
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Help“ to see a project walkthrough video.
 
 
-Quest:
+Quests:
 1. The forecast today is 293 Kelvin. To start, create a variable named kelvin, and set it equal to 293.
 The value saved to kelvin will stay constant. Choose the variable type with this in mind.
 
