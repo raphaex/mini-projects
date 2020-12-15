@@ -1,0 +1,49 @@
+ a project that plays games of rockpaperscissors the goal is to find the player who win more
+and also find the highest win ratio 'pick' 
+mini quest from desired outcome:
+1. score system for who ever wins more
+2. score system for individual picks
+
+basic pointing system problems:
+i could either go with a function that's gonna get called to add one point or just incerement it by 1 by using ++.
+well first it serves the same function and more non complex way. but the thing that's bugging me is how the fuck could i do that function. and why cant i fuckn doit dude, wtf. am i just ultra dumb or what.
+
+adding 1 to a number did not work
+tried many ways of doing this;
+ex:
+var = var + 1
+var++
+return var + 1
+
+
+pushing something into a array did not work 
+
+journal:
+it's a couple hours in and i can't seem to make this shitty basic function work.
+
+AFTER A COUPLE OF HOURS OF ASKING AROUND THE INTERNET
+i've done it project done bois.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
